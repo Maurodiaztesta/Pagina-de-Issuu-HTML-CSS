@@ -41,7 +41,7 @@ body{
 
 .sn{
     position: relative;
-    right: 30px;
+    right: 20px;
     top: -3px; 
 }
 
@@ -145,6 +145,8 @@ footer{
     position: relative;
     margin-bottom: 35px;
     margin-top: 60px;
+    
+
 }
 
 .issuu{
@@ -161,8 +163,23 @@ footer{
     font-size: 70%;
 }
 
-a{
+.issuu2{
+    color: grey;
+}
+
+.terms{
     margin: 10px;
+    color: grey;
+}
+
+.privacy{
+    margin: 10px;
+    color: grey;
+}
+
+.dmca{
+    margin: 10px;
+    color: grey;
 }
 
 a:link, a:visited, a:active {
